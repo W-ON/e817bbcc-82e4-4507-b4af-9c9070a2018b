@@ -54,7 +54,7 @@ export const Services = ({ services }) => {
                       {service?.button.label}
                       <Image
                         className="ml-1"
-                        src="/images/arrow-right.svg"
+                        src="./images/arrow-right.svg"
                         width={18}
                         height={14}
                         alt="arrow"
